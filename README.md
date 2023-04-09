@@ -12,12 +12,13 @@
  <img src="https://img.shields.io/badge/CSS-pink?style=flat&logo=CSS3&logoColor=white"/>
  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/React-green?style=flat&logo=React&logoColor=white"/><br />
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
     
 💪 Problem Solving <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white"/><br />
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={dydals3440})](https://solved.ac/{dydals3440})
  
  ✏️ Want to Study<br />
- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/NodeJS-green?style=flat&logo=Node.js&logoColor=white"/>
  <img src="https://img.shields.io/badge/NextJS-blue?style=flat&logo=Next.js&logoColor=white"/><br />
  
