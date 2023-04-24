@@ -14,7 +14,8 @@
  <img src="https://img.shields.io/badge/React-green?style=flat&logo=React&logoColor=white"/><br />
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
     
-💪 Problem Solving <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white"/><br />
+💪 Problem Solving<br /> 
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white"/><br />
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={dydals3440})](https://solved.ac/{dydals3440})
  
  ✏️ Want to Study<br />
