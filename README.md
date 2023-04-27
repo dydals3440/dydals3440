@@ -5,7 +5,7 @@
 
 👋🏻 Introduction<br />
     안녕하세요! 프론트엔드 개발자가 되기위하여 공부하는 경영학과 학생입니다. <br />
-    현재는 프론트엔드 위주로 공부하고 있지만, 어느정도 실력을 쌓은 후 백엔드도 공부하여 프로젝트를 진행해보고 싶습니다.    
+    현재는 프론트엔드 위주로 공부하고 있지만, 어느정도 실력을 쌓은 후 백엔드도 공부하여 향후에 풀스택 개발자가 되길 희망합니다.
     
 🍀 Skills<br />
  <img src="https://img.shields.io/badge/Html-orange?style=flat&logo=HTML5&logoColor=white"/>
