@@ -14,6 +14,7 @@
  <img src="https://img.shields.io/badge/React-green?style=flat&logo=React&logoColor=white"/><br />
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/NextJS-blue?style=flat&logo=Next.js&logoColor=white"/><br />
+ <img src="https://img.shields.io/badge/NodeJS-green?style=flat&logo=Node.js&logoColor=white"/>
     
 💪 Problem Solving<br /> 
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white"/><br />
@@ -21,7 +22,7 @@
  
  ✏️ Want to Study<br />
 
-  <img src="https://img.shields.io/badge/NodeJS-green?style=flat&logo=Node.js&logoColor=white"/>
+코딩테스트 방학 후 매일 1문제 이상씩 풀기!
 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dydals3440&langs_count=8)](https://github.com/dydals3440/github-readme-stats)
