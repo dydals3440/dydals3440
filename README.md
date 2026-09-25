@@ -1,7 +1,7 @@
-<h1>Matthew <sub>김용민</sub></h1>
+<h1>Matthew · 김용민</h1>
 
 <p>
-  Software Engineer &nbsp;·&nbsp;
+  <strong>Software Engineer</strong><br />
   <a href="mailto:matthew@moyeo.io">matthew@moyeo.io ↗</a>
 </p>
 
@@ -17,15 +17,11 @@
 
 <h3>Things I’ve built</h3>
 
-<br />
-
 <p>
   <strong><a href="https://moyeo.io">Moyeo ↗</a></strong><br />
   누구나 자신을 알릴 수 있게<br />
   <sub>2026.08 — 현재 · 풀스택 개발</sub>
 </p>
-
-<br />
 
 <p>
   <strong><a href="https://aido.kr">Aido ↗</a></strong><br />
@@ -35,7 +31,7 @@
 
 <br />
 
-<h3>Writing &amp; videos</h3>
+<h3>Writing &amp; Videos</h3>
 
 만들며 배운 것과 고민한 과정을 글과 영상으로 기록합니다.
 
