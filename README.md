@@ -18,12 +18,14 @@
 <h3>Things I’ve built</h3>
 
 <p>
+  <a href="https://moyeo.io"><img src="./assets/moyeo.png" width="36" height="36" align="middle" alt="Moyeo 로고" /></a>&nbsp;&nbsp;
   <strong><a href="https://moyeo.io">Moyeo ↗</a></strong><br />
   누구나 자신을 알릴 수 있게<br />
   <sub>2026.08 — 현재 · 풀스택 개발</sub>
 </p>
 
 <p>
+  <a href="https://aido.kr"><img src="./assets/aido.png" width="36" height="36" align="middle" alt="Aido 로고" /></a>&nbsp;&nbsp;
   <strong><a href="https://aido.kr">Aido ↗</a></strong><br />
   AI로 하루를 정리하고, 친구와 함께 실천하는 소셜 생산성 앱.<br />
   <sub>2026.01 — 현재 · 풀스택 개발</sub>
