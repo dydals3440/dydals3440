@@ -15,7 +15,7 @@
 
 <br />
 
-<h3>직접 만든 제품</h3>
+<h3>Things I’ve built</h3>
 
 <br />
 
