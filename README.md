@@ -32,3 +32,19 @@
   AI로 하루를 정리하고, 친구와 함께 실천하는 소셜 생산성 앱.<br />
   <sub>2026.01 — 현재 · 풀스택 개발</sub>
 </p>
+
+<br />
+
+<h3>Writing &amp; videos</h3>
+
+만들며 배운 것과 고민한 과정을 글과 영상으로 기록합니다.
+
+<p>
+  <a href="https://www.yolog.co.kr/">
+    <img src="https://img.shields.io/badge/Blog-24292F?style=for-the-badge&amp;logo=rss&amp;logoColor=white" alt="블로그 · yolog" height="28" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@yongcoding">
+    <img src="https://img.shields.io/badge/YouTube-24292F?style=for-the-badge&amp;logo=youtube&amp;logoColor=FF4545" alt="유튜브 · @yongcoding" height="28" />
+  </a>
+</p>
